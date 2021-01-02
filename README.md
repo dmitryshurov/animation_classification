@@ -34,5 +34,3 @@ Run the demo
 ```
 python demos/animation_recognition_demo.py data/recorded_animation.chan data/animation_library 
 ```
-
-Build UML
