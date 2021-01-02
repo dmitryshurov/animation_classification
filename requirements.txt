@@ -1,0 +1,10 @@
+# Core
+numpy==1.18.1
+#
+
+# For build_uml.bat
+pylint==2.5.2
+graphviz
+#
+
+matplotlib
